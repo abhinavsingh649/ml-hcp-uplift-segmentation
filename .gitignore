@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# logs
+*.log
+
+# models
+models/*.joblib
+models/*.pkl
+models/*.h5
+models/*.pt
+
+# data
+data/processed/
+data/raw/
